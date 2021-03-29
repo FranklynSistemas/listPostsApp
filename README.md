@@ -28,3 +28,12 @@ The project architecture is based on concepts on [Clean Archicteture](https://ww
 * [react-native-async-storage](https://github.com/react-native-async-storage/async-storage): I chose this tool over some other like `realm` or `react-native-sqlite-storage` or some other because their performance and to be simple to use for no too complex data entities
 * [@react-navigation/native](https://reactnavigation.org/): I chose this navigation tool to be the most common use it for this their documentation it's so complete and work perfectly for ios and android
 * [react-native-gesture-handler](https://docs.swmansion.com/): I chose this tool to control the user gestures due to be the most updated and with the best documentation over some others like [react-native-swipe-list-view](https://github.com/jemise111/react-native-swipe-list-view) or  [react-native-swipeable](https://github.com/jshanson7/react-native-swipeable), also require a minimal configuration and work perfect for android and ios without side effects
+
+### Application screens
+
+![image](https://user-images.githubusercontent.com/11137311/112779180-bd4e5700-900b-11eb-8982-0f11053a94b3.png)
+![image](https://user-images.githubusercontent.com/11137311/112779207-d0612700-900b-11eb-8694-eaad1946c2d9.png)
+![image](https://user-images.githubusercontent.com/11137311/112779228-dd7e1600-900b-11eb-8320-ae1eef28c1b8.png)
+![image](https://user-images.githubusercontent.com/11137311/112779298-06061000-900c-11eb-9490-79323df46bb4.png)
+
+
