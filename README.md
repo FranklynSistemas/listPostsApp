@@ -1,4 +1,5 @@
 # listPostsApp
+Small Description about this project
 
 ### Run App
 
